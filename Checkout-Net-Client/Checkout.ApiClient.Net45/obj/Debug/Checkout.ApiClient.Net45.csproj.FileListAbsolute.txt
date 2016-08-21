@@ -14,3 +14,10 @@ E:\Development\Checkout-Net-Client\Checkout.ApiClient.Net45\bin\Debug\Newtonsoft
 E:\Development\Checkout-Net-Client\Checkout.ApiClient.Net45\obj\Debug\Checkout.ApiClient.Net45.csprojResolveAssemblyReference.cache
 E:\Development\Checkout-Net-Client\Checkout.ApiClient.Net45\obj\Debug\Checkout.dll
 E:\Development\Checkout-Net-Client\Checkout.ApiClient.Net45\obj\Debug\Checkout.pdb
+C:\Users\Jorge\Documents\GitHub\Checkout-Net-Client\Checkout-Net-Client\Checkout.ApiClient.Net45\bin\Debug\Checkout.dll.config
+C:\Users\Jorge\Documents\GitHub\Checkout-Net-Client\Checkout-Net-Client\Checkout.ApiClient.Net45\bin\Debug\Checkout.dll
+C:\Users\Jorge\Documents\GitHub\Checkout-Net-Client\Checkout-Net-Client\Checkout.ApiClient.Net45\bin\Debug\Checkout.pdb
+C:\Users\Jorge\Documents\GitHub\Checkout-Net-Client\Checkout-Net-Client\Checkout.ApiClient.Net45\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jorge\Documents\GitHub\Checkout-Net-Client\Checkout-Net-Client\Checkout.ApiClient.Net45\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jorge\Documents\GitHub\Checkout-Net-Client\Checkout-Net-Client\Checkout.ApiClient.Net45\obj\Debug\Checkout.dll
+C:\Users\Jorge\Documents\GitHub\Checkout-Net-Client\Checkout-Net-Client\Checkout.ApiClient.Net45\obj\Debug\Checkout.pdb

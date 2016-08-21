@@ -196,35 +196,36 @@
                 (_recurringCustomerPaymentPlanApiUri =
                     string.Concat(AppSettings.BaseApiUri, "/recurringPayments/customers/{0}"));
 
+        //Shopping List Services Uris
 
         public static string ShoppingListAddItem
         =>
             _shoppingListAddItem ??
             (_shoppingListAddItem =
-                string.Concat(AppSettings.ShoppingListApiUri, "/AddItem"));
+                AppSettings.ShoppingListApiUri);
 
         public static string ShoppingListUpdateItem
         =>
             _shoppingListUpdateItem ??
             (_shoppingListUpdateItem =
-                string.Concat(AppSettings.ShoppingListApiUri, "/UpdateItem"));
+                AppSettings.ShoppingListApiUri);
 
         public static string ShoppingListGetItem
         =>
             _shoppingListGetItem ??
             (_shoppingListGetItem =
-                string.Concat(AppSettings.ShoppingListApiUri, "/GetItem?Name={0}"));
+                string.Concat(AppSettings.ShoppingListApiUri, "?Name={0}"));
 
         public static string ShoppingListDeleteItem
         =>
             _shoppingListDeleteItem ??
             (_shoppingListDeleteItem =
-                string.Concat(AppSettings.ShoppingListApiUri, "/DeleteItem?Name={0}"));
+                string.Concat(AppSettings.ShoppingListApiUri, "?Name={0}"));
 
         public static string ShoppingListGetAll
         =>
             _shoppingListGetAll ??
             (_shoppingListGetAll =
-                string.Concat(AppSettings.ShoppingListApiUri, "/GetAll"));
+                AppSettings.ShoppingListApiUri);
     }
 }
